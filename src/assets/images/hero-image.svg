@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <style>
+    .st0{fill:#f8f9fa;}
+    .st1{fill:#009245;}
+    .st2{fill:#006633;}
+    .st3{fill:#ffffff;}
+    .st4{fill:#333333;}
+    .st5{fill:#e6e6e6;}
+    .st6{fill:none;stroke:#009245;stroke-width:2;stroke-miterlimit:10;}
+    .st7{fill:#33cc66;}
+  </style>
+  
+  <!-- Background elements -->
+  <circle class="st5" cx="400" cy="300" r="250" opacity="0.3"/>
+  <circle class="st5" cx="500" cy="200" r="100" opacity="0.2"/>
+  
+  <!-- Server/Data Center -->
+  <rect class="st3" x="540" y="240" width="120" height="180" rx="5" ry="5"/>
+  <rect class="st5" x="550" y="260" width="100" height="20" rx="2" ry="2"/>
+  <rect class="st7" x="560" y="270" width="10" height="5" rx="1" ry="1"/>
+  <rect class="st5" x="550" y="290" width="100" height="20" rx="2" ry="2"/>
+  <rect class="st7" x="560" y="300" width="10" height="5" rx="1" ry="1"/>
+  <rect class="st5" x="550" y="320" width="100" height="20" rx="2" ry="2"/>
+  <rect class="st7" x="560" y="330" width="10" height="5" rx="1" ry="1"/>
+  <rect class="st5" x="550" y="350" width="100" height="20" rx="2" ry="2"/>
+  <rect class="st7" x="560" y="360" width="10" height="5" rx="1" ry="1"/>
+  <rect class="st5" x="550" y="380" width="100" height="20" rx="2" ry="2"/>
+  <rect class="st7" x="560" y="390" width="10" height="5" rx="1" ry="1"/>
+  
+  <!-- Computer Screen -->
+  <rect class="st4" x="280" y="220" width="180" height="120" rx="5" ry="5"/>
+  <rect class="st3" x="290" y="230" width="160" height="90" rx="2" ry="2"/>
+  <rect class="st1" x="290" y="230" width="160" height="20" rx="2" ry="2"/>
+  <circle class="st3" cx="300" cy="240" r="3"/>
+  <circle class="st3" cx="310" cy="240" r="3"/>
+  <circle class="st3" cx="320" cy="240" r="3"/>
+  
+  <!-- Code interface on screen -->
+  <rect class="st5" x="300" y="260" width="70" height="5" rx="1" ry="1"/>
+  <rect class="st5" x="300" y="270" width="100" height="5" rx="1" ry="1"/>
+  <rect class="st5" x="300" y="280" width="90" height="5" rx="1" ry="1"/>
+  <rect class="st5" x="300" y="290" width="80" height="5" rx="1" ry="1"/>
+  <rect class="st5" x="300" y="300" width="110" height="5" rx="1" ry="1"/>
+  
+  <!-- Computer Stand -->
+  <rect class="st4" x="330" y="340" width="80" height="10" rx="2" ry="2"/>
+  <rect class="st4" x="360" y="350" width="20" height="30" rx="2" ry="2"/>
+  <rect class="st4" x="340" y="380" width="60" height="5" rx="2" ry="2"/>
+  
+  <!-- Connected lines -->
+  <path class="st6" d="M460,270 Q530,230 540,270" stroke-dasharray="5,5"/>
+  <path class="st6" d="M460,290 Q500,290 540,320" stroke-dasharray="5,5"/>
+  <path class="st6" d="M460,310 Q500,350 540,370" stroke-dasharray="5,5"/>
+  
+  <!-- Gears -->
+  <circle class="st1" cx="200" cy="280" r="40" opacity="0.8"/>
+  <circle class="st3" cx="200" cy="280" r="15" opacity="0.9"/>
+  <path class="st2" d="M200,240 L205,250 L215,246 L213,257 L223,257 L218,267 L228,271 L220,278 L227,285 L218,290 L220,300 L210,300 L208,310 L198,305 L190,313 L185,303 L175,305 L178,295 L168,290 L175,283 L167,276 L176,271 L172,261 L182,261 L184,251 L193,254 z" opacity="0.8"/>
+  
+  <circle class="st2" cx="150" cy="350" r="30" opacity="0.8"/>
+  <circle class="st3" cx="150" cy="350" r="10" opacity="0.9"/>
+  <path class="st1" d="M150,320 L155,330 L165,326 L163,337 L173,337 L168,347 L178,351 L170,358 L177,365 L168,370 L170,380 L160,380 L158,390 L148,385 L140,393 L135,383 L125,385 L128,375 L118,370 L125,363 L117,356 L126,351 L122,341 L132,341 L134,331 L143,334 z" opacity="0.8"/>
+  
+  <!-- Decorative elements -->
+  <circle class="st7" cx="220" cy="180" r="20" opacity="0.6"/>
+  <circle class="st7" cx="250" cy="200" r="10" opacity="0.4"/>
+  <circle class="st7" cx="270" cy="180" r="15" opacity="0.5"/>
+  
+  <circle class="st1" cx="620" cy="200" r="15" opacity="0.6"/>
+  <circle class="st1" cx="650" cy="210" r="8" opacity="0.4"/>
+  <circle class="st1" cx="635" cy="180" r="12" opacity="0.5"/>
+</svg> 

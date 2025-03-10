@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.204b9cca.css",
+    "main.js": "/static/js/main.e6d866b0.js",
+    "static/js/453.4b21e83e.chunk.js": "/static/js/453.4b21e83e.chunk.js",
+    "static/media/TeamPic.png": "/static/media/TeamPic.221777e25b5a02f839c2.png",
+    "static/media/Credotech.png": "/static/media/Credotech.0daac4d08321df57d562.png",
+    "static/media/bodego.png": "/static/media/bodego.0330ebb5f49db734f1ce.png",
+    "static/media/TTBDO.png": "/static/media/TTBDO.8ae07b9201bac13e311d.png",
+    "index.html": "/index.html",
+    "main.204b9cca.css.map": "/static/css/main.204b9cca.css.map",
+    "main.e6d866b0.js.map": "/static/js/main.e6d866b0.js.map",
+    "453.4b21e83e.chunk.js.map": "/static/js/453.4b21e83e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204b9cca.css",
+    "static/js/main.e6d866b0.js"
+  ]
+}

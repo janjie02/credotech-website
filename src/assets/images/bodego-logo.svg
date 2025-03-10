@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <style>
+    .st0{fill:#f8f9fa;}
+    .st1{fill:#009245;}
+    .st2{fill:#006633;}
+    .st3{fill:#ffffff;}
+    .st4{fill:#333333;}
+  </style>
+  
+  <!-- Logo background -->
+  <circle class="st1" cx="100" cy="100" r="90" opacity="0.9"/>
+  <circle class="st3" cx="100" cy="100" r="80" opacity="0.9"/>
+  
+  <!-- Boxes illustration -->
+  <rect class="st2" x="50" y="70" width="40" height="40" rx="5" ry="5"/>
+  <rect class="st1" x="60" y="60" width="40" height="40" rx="5" ry="5"/>
+  <rect class="st2" x="100" y="80" width="40" height="40" rx="5" ry="5"/>
+  
+  <!-- Text "BODEGO" -->
+  <g transform="translate(60, 145)">
+    <text font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#006633">BODEGO</text>
+  </g>
+  
+  <!-- Scanning line -->
+  <line x1="50" y1="120" x2="150" y2="120" stroke="#009245" stroke-width="2" stroke-dasharray="5,3"/>
+  <circle class="st1" cx="70" cy="120" r="3"/>
+</svg> 

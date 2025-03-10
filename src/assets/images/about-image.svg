@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" viewBox="0 0 600 500">
+  <style>
+    .st0{fill:#f8f9fa;}
+    .st1{fill:#009245;}
+    .st2{fill:#006633;}
+    .st3{fill:#ffffff;}
+    .st4{fill:#333333;}
+    .st5{fill:#e6e6e6;}
+    .st6{fill:none;stroke:#009245;stroke-width:2;stroke-miterlimit:10;}
+    .st7{fill:#33cc66;}
+  </style>
+  
+  <!-- Background shapes -->
+  <circle class="st5" cx="300" cy="250" r="200" opacity="0.2"/>
+  <circle class="st5" cx="400" cy="150" r="70" opacity="0.1"/>
+  
+  <!-- Team illustration -->
+  <rect class="st4" x="150" y="200" width="300" height="170" rx="10" ry="10"/>
+  <rect class="st3" x="160" y="210" width="280" height="150" rx="5" ry="5"/>
+  
+  <!-- Conference screen interface -->
+  <rect class="st1" x="160" y="210" width="280" height="30" rx="5" ry="5"/>
+  <circle class="st3" cx="180" cy="225" r="5"/>
+  <circle class="st3" cx="200" cy="225" r="5"/>
+  <circle class="st3" cx="220" cy="225" r="5"/>
+  
+  <!-- People on screen -->
+  <!-- Person 1 -->
+  <rect class="st5" x="180" y="250" width="70" height="70" rx="5" ry="5"/>
+  <circle class="st4" cx="215" cy="270" r="10"/>
+  <rect class="st4" x="205" y="285" width="20" height="20" rx="2" ry="2"/>
+  <rect class="st7" x="180" y="315" width="70" height="5" rx="2" ry="2"/>
+  
+  <!-- Person 2 -->
+  <rect class="st5" x="265" y="250" width="70" height="70" rx="5" ry="5"/>
+  <circle class="st4" cx="300" cy="270" r="10"/>
+  <rect class="st4" x="290" y="285" width="20" height="20" rx="2" ry="2"/>
+  <rect class="st7" x="265" y="315" width="70" height="5" rx="2" ry="2"/>
+  
+  <!-- Person 3 -->
+  <rect class="st5" x="350" y="250" width="70" height="70" rx="5" ry="5"/>
+  <circle class="st4" cx="385" cy="270" r="10"/>
+  <rect class="st4" x="375" y="285" width="20" height="20" rx="2" ry="2"/>
+  <rect class="st7" x="350" y="315" width="70" height="5" rx="2" ry="2"/>
+  
+  <!-- Computer base -->
+  <rect class="st4" x="250" y="370" width="100" height="10" rx="5" ry="5"/>
+  <rect class="st4" x="290" y="380" width="20" height="30" rx="5" ry="5"/>
+  <ellipse class="st4" cx="300" cy="410" rx="30" ry="5"/>
+  
+  <!-- Connected devices -->
+  <!-- Mobile device -->
+  <rect class="st4" x="100" y="230" width="30" height="50" rx="5" ry="5"/>
+  <rect class="st3" x="105" y="235" width="20" height="35" rx="2" ry="2"/>
+  <rect class="st1" x="105" y="235" width="20" height="8" rx="2" ry="2"/>
+  <circle class="st4" cx="115" cy="278" r="2"/>
+  
+  <!-- Tablet device -->
+  <rect class="st4" x="460" y="210" width="70" height="90" rx="5" ry="5"/>
+  <rect class="st3" x="465" y="215" width="60" height="75" rx="2" ry="2"/>
+  <rect class="st1" x="465" y="215" width="60" height="15" rx="2" ry="2"/>
+  <circle class="st4" cx="495" cy="300" r="3"/>
+  
+  <!-- Connection lines -->
+  <path class="st6" d="M130,250 Q150,250 160,250" stroke-dasharray="4,4"/>
+  <path class="st6" d="M440,250 Q450,250 460,250" stroke-dasharray="4,4"/>
+  
+  <!-- Decorative elements -->
+  <circle class="st7" cx="150" cy="150" r="20" opacity="0.6"/>
+  <circle class="st7" cx="180" cy="120" r="10" opacity="0.4"/>
+  <circle class="st7" cx="120" cy="130" r="15" opacity="0.5"/>
+  
+  <circle class="st1" cx="440" cy="120" r="15" opacity="0.6"/>
+  <circle class="st1" cx="470" cy="140" r="8" opacity="0.4"/>
+  <circle class="st1" cx="420" cy="100" r="12" opacity="0.5"/>
+  
+  <!-- Cloud elements -->
+  <circle class="st3" cx="300" cy="80" r="25" opacity="0.8"/>
+  <circle class="st3" cx="330" cy="70" r="20" opacity="0.8"/>
+  <circle class="st3" cx="355" cy="80" r="22" opacity="0.8"/>
+  <circle class="st3" cx="270" cy="70" r="22" opacity="0.8"/>
+  <circle class="st3" cx="245" cy="80" r="20" opacity="0.8"/>
+  <rect class="st3" x="245" y="80" width="110" height="25" rx="0" ry="0" opacity="0.8"/>
+  
+  <!-- Connection to cloud -->
+  <path class="st6" d="M300,100 Q300,150 300,200" stroke-dasharray="5,5"/>
+  <circle class="st1" cx="300" cy="130" r="5"/>
+  <circle class="st1" cx="300" cy="160" r="5"/>
+  
+  <!-- Small data icons -->
+  <rect class="st2" x="240" cy="120" width="10" height="15" rx="2" ry="2" opacity="0.8"/>
+  <rect class="st2" x="255" cy="130" width="10" height="15" rx="2" ry="2" opacity="0.8"/>
+  <rect class="st2" x="270" cy="110" width="10" height="15" rx="2" ry="2" opacity="0.8"/>
+  
+  <rect class="st7" x="320" cy="115" width="10" height="15" rx="2" ry="2" opacity="0.8"/>
+  <rect class="st7" x="335" cy="125" width="10" height="15" rx="2" ry="2" opacity="0.8"/>
+  <rect class="st7" x="350" cy="105" width="10" height="15" rx="2" ry="2" opacity="0.8"/>
+</svg> 
